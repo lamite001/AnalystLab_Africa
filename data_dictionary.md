@@ -13,4 +13,3 @@
 | `Employees` | One employee per row | `Employee_ID` | `Store_ID`, role, hire date, monthly salary |
 | `Data_Dictionary` | One metadata entry per field | Dataset + Column | Field descriptions and key roles |
 
-See the original workbook's `Data_Dictionary` and `Data_Model` sheets for field-level definitions and the full relationship notes. The source workbook is intentionally not included here because it contains customer contact fields.
