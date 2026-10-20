@@ -88,3 +88,43 @@ Relationships:
 - `Stores[Store_ID]` 1 → * `Inventory[Store_ID]`
 - `Stores[Store_ID]` 1 → * `Employees[Store_ID]`
 
+
+## ANALYSIS
+![DASHBOARD]
+
+
+
+
+
+
+
+
+
+
+
+
+
+![LINE CHART]
+
+
+
+
+
+
+
+
+![BARCHART]
+
+
+
+
+
+
+
+
+
+
+
+
+![BARCHART]
+
