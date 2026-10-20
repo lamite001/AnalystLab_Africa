@@ -1,3 +1,4 @@
+<img width="1153" height="528" alt="ShopSmart Dashboard" src="https://github.com/user-attachments/assets/cabf6fc2-a72e-4c2f-bf60-b976b2850b28" />
 # ShopSmart Retail Sales Analysis
 
 **Analyst:** Alu Olamide  
@@ -90,7 +91,7 @@ Relationships:
 
 
 ## ANALYSIS
-![DASHBOARD]
+![DASHBOARD]<img width="1153" height="528" alt="ShopSmart Dashboard" src="https://github.com/user-attachments/assets/059c8e1e-18ef-4099-a930-5218efdec962" />
 
 
 
@@ -104,19 +105,10 @@ Relationships:
 
 
 
-![LINE CHART]
 
 
 
-
-
-
-
-
-![BARCHART]
-
-
-
+![LINE CHART]<img width="1199" height="501" alt="Monthly sales trend ALA Project" src="https://github.com/user-attachments/assets/ce427682-d372-4d6f-aa6e-cb0cba8096cc" />
 
 
 
@@ -126,5 +118,79 @@ Relationships:
 
 
 
-![BARCHART]
+
+
+
+
+
+
+
+
+
+
+![BARCHART]<img width="1181" height="510" alt="Revenue by Category ALA Poject" src="https://github.com/user-attachments/assets/20133cdf-68a8-4da2-bdc2-758b5f866aea" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![BARCHART]<img width="1213" height="516" alt="Revenue by State ALA Project" src="https://github.com/user-attachments/assets/08617251-30e9-432d-b756-048ab0f6402b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![BARCHART]<img width="1209" height="513" alt="Sales by Region ALA Project" src="https://github.com/user-attachments/assets/ba5f30d8-7cd0-4e49-958a-e11a49c7097a" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![BARCHART]<img width="1208" height="500" alt="Sales by State ALA Project" src="https://github.com/user-attachments/assets/e8c8c20e-b565-42c2-b25a-38ad1181ef20" />
+
+
 
