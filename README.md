@@ -149,6 +149,18 @@ differs from order-level unit price. `Order_Items` mirrors `Orders` one-to-one.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![LINE CHART]<img width="1199" height="501" alt="Monthly sales trend ALA Project" src="https://github.com/user-attachments/assets/ce427682-d372-4d6f-aa6e-cb0cba8096cc" />
 
 
