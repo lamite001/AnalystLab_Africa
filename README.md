@@ -1,4 +1,3 @@
-<img width="1153" height="528" alt="ShopSmart Dashboard" src="https://github.com/user-attachments/assets/cabf6fc2-a72e-4c2f-bf60-b976b2850b28" />
 # ShopSmart Retail Sales Analysis
 
 **Analyst:** Alu Olamide  
