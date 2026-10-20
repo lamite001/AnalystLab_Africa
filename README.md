@@ -56,7 +56,7 @@ analysis is restricted to Completed orders.
 **No single product dominates.** Home Item 400 (PROD0400) leads the all-status
 product ranking at approximately ₦21.6 million, about 0.29% of recorded line value.
 
-**Returns need monitoring.** The workbook records 2,500 returns and ₦63.4 million
+**Returns need monitoring.** The records 2,500 returns and ₦63.4 million
 in refunds. Home and Beauty have the highest reported category return rates (about 5.2% each).
 
 **Inventory replenishment:** 21 stocked SKUs are below their reorder level.
