@@ -45,17 +45,23 @@ answers, and operational tables. This repository documents the analytical approa
 
 **Beauty is the leading category** in the all-status analysis,
  with approximately ₦1.7625 billion in recorded line value (23.3% share) and 35,196 units.
+ 
 **December is the strongest month** at approximately ₦660.6 million; 
 February is the weakest at approximately ₦566.6 million.
+
 **Store performance is tightly grouped.** STR015 Lagos leads the all-status 
 ranking at approximately ₦311.9 million, but the leading store changes when
 analysis is restricted to Completed orders.
+
 **No single product dominates.** Home Item 400 (PROD0400) leads the all-status
 product ranking at approximately ₦21.6 million, about 0.29% of recorded line value.
+
 **Returns need monitoring.** The workbook records 2,500 returns and ₦63.4 million
 in refunds. Home and Beauty have the highest reported category return rates (about 5.2% each).
+
 **Inventory replenishment:** 21 stocked SKUs are below their reorder level.
 STR014 Port Harcourt and STR006 Kaduna each have three such SKUs; STR018 Ibadan has two.
+
 **Supplier base is fragmented:** 489 suppliers are matched to 500 products
 using the workbook's brand-to-supplier-name convention.
 
@@ -70,7 +76,7 @@ This describes these entities:
 - `Suppliers` — supplier master data.
 - `Inventory` — stock on hand and reorder level by product/store.
 - `Returns` — return reason and refund amount linked to orders.
-- `Order_Items` — line-item table that mirrors `Orders` one-to-one in the supplied workbook.
+- `Order_Items` — line-item table that mirrors `Orders` one-to-one.
 - `Employees` — staff details by store.
 
 Relationships:
