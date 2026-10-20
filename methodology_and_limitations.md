@@ -4,12 +4,15 @@
 
 a. Inspect source structure
 -Identify the transaction fact table, dimension tables, keys, and field definitions.
+
 b. Clean and validate 
 -check duplicate rows, missing values, date types, numeric/currency
 fields, key uniqueness, and foreign-key matches.
+
 c. Calculate metrics
 -use `Line_Total` as the recorded line value and aggregate quantity, orders,
 returns, refunds, and inventory valuation.
+
 d. Segment results
 - compare by status, product, category, store, month, customer, region, and supplier.
 e. Translate findings
