@@ -19,7 +19,8 @@ Beauty is the leading category by recorded line value at approximately
 all-status ranking is Home Item 400 (PROD0400), with approximately ₦21.64 million.
 The top product ranking changes for Completed orders.
 
-**Recommendation:** Maintain category-level visibility, validate profitability 
+##Recommendation
+Maintain category-level visibility, validate profitability 
 with cost data, and avoid making inventory decisions from revenue alone. Compare
 Completed sales, gross margin, return rates, and stock availability together.
 
@@ -29,7 +30,8 @@ There are 2,500 return records against 50,000 order records (5.0%)
 and total refunds of approximately ₦63.44 million. Home and Beauty
 have reported return rates around 5.2%.
 
-**Recommendation:** Review return reasons and product-level return rates, 
+##Recommendation
+Review return reasons and product-level return rates, 
 then investigate product descriptions, quality, fulfilment accuracy, and 
 delivery performance. The workbook notes that some orders have multiple 
 return records; count return events separately from distinct returned orders.
@@ -37,11 +39,9 @@ return records; count return events separately from distinct returned orders.
 ## Stores and regions
 
 STR015 Lagos is the all-status store leader at approximately ₦311.9 million.
-The difference between the top and bottom store in the workbook's summary is 
-relatively small. The South region leads total recorded value, but the workbook
-notes that regional totals largely follow store counts.
 
-##Recommendation Compare revenue per store, Completed revenue, order volume, 
+##Recommendation
+Compare revenue per store, Completed revenue, order volume, 
 returns, and inventory availability before reallocating resources. Treat 
 regions as source labels rather than validated geographic groupings.
 
@@ -62,6 +62,5 @@ The cleaning log reports:
 - No blank cells found in the inspected datasets.
 - Zero mismatches between the summed `Orders.Line_Total` and `Order_Items.Line_Total`.
 - Zero unmatched customer, product, store, return-order, or supplier lookups in its reconciliation checks.
-- Date fields converted to true Excel dates and numeric/currency fields verified.
 
-These are checks reported by the workbook, not an independent re-run of the source files.
+
