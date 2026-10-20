@@ -131,7 +131,8 @@ differs from order-level unit price. `Order_Items` mirrors `Orders` one-to-one.
 
 
 ## ANALYSIS
-![DASHBOARD]<img width="1153" height="528" alt="ShopSmart Dashboard" src="https://github.com/user-attachments/assets/059c8e1e-18ef-4099-a930-5218efdec962" />
+![DASHBOARD]<img width="584" height="549" alt="Untitled picture" src="https://github.com/user-attachments/assets/e639f1c9-cc4f-4595-aa34-03e6b36977a5" />
+
 
 
 
